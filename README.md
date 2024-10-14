@@ -1,7 +1,7 @@
 # DSA-Lab-Programs
 This repository contains all the lab programs of Data Structures and Applications Course 
 <br> Subject Code - 23CS205
-<br> Semester - III
+<br> Semester - III - Autonomous Batch
 <br> Cambridge Institute of Technology
 
 # Content
